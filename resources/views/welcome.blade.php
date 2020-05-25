@@ -50,8 +50,9 @@
 
             </ais-results>
 
-        </ais-index>
+            <ais-powered-by></ais-powered-by>
 
+        </ais-index>
 
     </div>
 @endsection
